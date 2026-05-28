@@ -1,4 +1,7 @@
 注：以下排名经我参考Claude、Gemini、Chatgpt、豆包的分析和个人分析得出，所谓的“绝对安全”在顶级黑客面前是相对的，如果你是像Linus Torvalds一样的顶级黑客(甚至是任何资深的内核开发人员或网络安全专家），可以无视以上排名从中选择操作更便捷顺手安全的系统，如Arch Linux
+
+
+
 完整排名链接：
 https://ecn8zy0wf4zf.feishu.cn/docx/TgDodsvwboV92oxE7bOceOvMnrW?from=from_copylink
 
